@@ -1,0 +1,14 @@
+
+
+#usuario{ /* id */
+    
+   background-color: black;
+   color: white;
+   font-family: Helvetica, Arial, sans-serif;
+
+}
+
+.button-style{ /* class */
+    position: relative;
+    
+}
